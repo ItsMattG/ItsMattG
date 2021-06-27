@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Matthew Gleeson but you can call me Matt!
+### 👋 Hello there, I'm Matt Gleeson!
 
 ## :mortar_board: I'm a Computer Science student at Deakin University Melbourne:
 - :books: I'm currently trying to be a sponge, soaking up as much information as possible! :grin:
