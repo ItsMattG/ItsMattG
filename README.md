@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Matt Gleeson!
 
- :mortar_board: I'm a Software Developer with a Bachelor of Engineering, Computer Science at Deakin University, Melbourne:
+- :mortar_board: I'm a Software Developer with a Bachelor of Engineering, Computer Science at Deakin University, Melbourne:
 - :monkey_face: Quirky fact: I enjoy bouldering, and long walks on the beach with my whippet.
 
 ### 🧰 Languages and Tools:
