@@ -4,6 +4,7 @@
 - :monkey_face: Quirky fact: I enjoy bouldering, and long walks on the beach with my whippet.
 
 ### 🧰 Languages and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" alt="Vue" height="40" align="left" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" alt="Git Bash" height="40" align="left" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="React" height="40" align="left" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" align="left" width="40">
